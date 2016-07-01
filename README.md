@@ -1,5 +1,5 @@
 # Resize BMP
-Simple program to scale BMP images
+Simple program to scale 24-bit uncompressed BMP images.
 
 Usage: ./resize n infile outfile; n must be between 1 and 100.
 
